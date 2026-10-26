@@ -10,6 +10,8 @@ données sources → Power Query → modèle en étoile → mesures DAX → docu
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yebhe/)
 
 </div>
@@ -23,7 +25,7 @@ mesures DAX expliquées, contrôles qualité et limites des données assumées.
 
 | Projet | Domaine | Points forts |
 |---|---|---|
-| [🛒 **ecommerce-powerbi**](https://github.com/yebhe/ecommerce-powerbi) | Ventes e-commerce | 98 mesures DAX, rétention / churn / nouveaux clients, paramètre de champ et titres dynamiques |
+| [🛒 **ecommerce-powerbi**](https://github.com/yebhe/ecommerce-powerbi) | Ventes e-commerce | 98 mesures DAX, rétention / churn / nouveaux clients, paramètre de champ, titres dynamiques, requêtes SQL |
 | [🏦 **pret-bancaire-powerbi**](https://github.com/yebhe/pret-bancaire-powerbi) | Portefeuille de prêts | Modèle en constellation (3 faits, 7 dimensions), 123 mesures, détection de 250 000 doublons |
 | [🚚 **supply-chain-powerbi**](https://github.com/yebhe/supply-chain-powerbi) | Chaîne d'approvisionnement | ~150 mesures, drill-through — plus une version Excel (Power Query, Power Pivot) |
 | [👥 **ressource-humaine-powerbi**](https://github.com/yebhe/ressource-humaine-powerbi) | Effectifs & attrition | 62 mesures, taux de départ annualisé, relations inactives, population « présente sur la période » |
