@@ -2,16 +2,23 @@
 
 # MAMADOU Lamarana Diallo
 
-**Data Analyst · BI**
+**Développeur → Data Analyst · BI**
 
-Je construis des tableaux de bord Power BI de bout en bout :
+🎯 **À la recherche d'une alternance Data Analyst / BI**
+**Rythme : 3 semaines en entreprise / 1 semaine en école — disponible immédiatement**
+
+Développeur de formation, je m'oriente vers la data — et j'y applique
+la même exigence qu'en dev : modélisation propre, tests, documentation.
+Mes tableaux de bord Power BI sont construits de bout en bout :
 données sources → Power Query → modèle en étoile → mesures DAX → documentation.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yebhe/)
 
 </div>
@@ -30,10 +37,12 @@ mesures DAX expliquées, contrôles qualité et limites des données assumées.
 | [🚚 **supply-chain-powerbi**](https://github.com/yebhe/supply-chain-powerbi) | Chaîne d'approvisionnement | ~150 mesures, drill-through — plus une version Excel (Power Query, Power Pivot) |
 | [👥 **ressource-humaine-powerbi**](https://github.com/yebhe/ressource-humaine-powerbi) | Effectifs & attrition | 62 mesures, taux de départ annualisé, relations inactives, population « présente sur la période » |
 
-## 💻 Projet full-stack (complément)
+## 💻 Mon socle de développeur
 
-Un SaaS complet qui montre que je sais aussi modéliser des données côté
-production (PostgreSQL, API REST) et les exploiter côté front.
+Ce SaaS complet témoigne de mon parcours dev : modélisation relationnelle
+(PostgreSQL), API REST sécurisée, front React. Des compétences que je
+remets au service de la data : comprendre la donnée à la source, l'extraire,
+la structurer proprement.
 
 | Projet | Description | Points forts |
 |---|---|---|
@@ -41,9 +50,10 @@ production (PostgreSQL, API REST) et les exploiter côté front.
 
 ## 🛠️ Stack
 
-`Power BI` `DAX` `Power Query (M)` `SQL` `Modélisation en étoile / constellation` `Excel — Power Pivot` `PostgreSQL` `Git`
+**Data** : `Power BI` `DAX` `Power Query (M)` `SQL` `Modélisation en étoile / constellation` `Excel — Power Pivot`
+**Dev** : `Django REST` `React` `PostgreSQL` `Docker` `Git`
 
-## 💡 Ce que je soigne dans chaque projet
+## 💡 Ce que j'apporte du dev à la data
 
 - **Modélisation** : schéma en étoile, clés techniques masquées, calendrier dédié
 - **DAX** : comparaisons N-1, variations formatées (flèches, couleurs conditionnelles)
