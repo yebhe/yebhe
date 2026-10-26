@@ -30,9 +30,18 @@ mesures DAX expliquées, contrôles qualité et limites des données assumées.
 | [🚚 **supply-chain-powerbi**](https://github.com/yebhe/supply-chain-powerbi) | Chaîne d'approvisionnement | ~150 mesures, drill-through — plus une version Excel (Power Query, Power Pivot) |
 | [👥 **ressource-humaine-powerbi**](https://github.com/yebhe/ressource-humaine-powerbi) | Effectifs & attrition | 62 mesures, taux de départ annualisé, relations inactives, population « présente sur la période » |
 
+## 💻 Projet full-stack (complément)
+
+Un SaaS complet qui montre que je sais aussi modéliser des données côté
+production (PostgreSQL, API REST) et les exploiter côté front.
+
+| Projet | Description | Points forts |
+|---|---|---|
+| [🏬 **gestion_commerciale**](https://github.com/yebhe/gestion_commerciale) | SaaS multi-tenant de gestion de magasins : POS, stock, clients, rapports | **PWA offline-first** (IndexedDB + file de sync), RBAC ~80 permissions, Django REST + React, 9 conteneurs Docker |
+
 ## 🛠️ Stack
 
-`Power BI` `DAX` `Power Query (M)` `SQL` `Modélisation en étoile / constellation` `Excel — Power Pivot` `Git`
+`Power BI` `DAX` `Power Query (M)` `SQL` `Modélisation en étoile / constellation` `Excel — Power Pivot` `PostgreSQL` `Git`
 
 ## 💡 Ce que je soigne dans chaque projet
 
